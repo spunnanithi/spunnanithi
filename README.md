@@ -33,7 +33,7 @@
 
 ---
 
-## :fire My Stats:
+## :fire: My Stats:
 
 <!-- Github Streak Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spunnanithi&theme=cobalt2&hide_border=true&exclude_days=Sat,Sun&" alt="spunnanithi" /></p>
