@@ -29,9 +29,9 @@
 
 - 👨‍💻 All of my projects are available at [https://punnanithi-portfolio.vercel.app/](https://punnanithi-portfolio.vercel.app/)
 
-- 📫 How to reach me **spunnanithi@gmail.com**
+- 📫 How to reach me **spunnanithi@gmail.com** OR **LinkedIn messaging**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/sirasit-punnanithi/" target="blank">
@@ -53,5 +53,6 @@
     <!-- Github Streak Stats -->
     <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spunnanithi&theme=cobalt2&hide_border=true&exclude_days=Sat,Sun&" alt="spunnanithi" />
     <!-- Github README Stats -->
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spunnanithi&show_icons=true&locale=en&layout=compact&theme=cobalt2&hide_border=true&" alt="spunnanithi" />
+    <!-- ! Uncomment below to show Top Languages Card -->
+    <!-- <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spunnanithi&show_icons=true&locale=en&layout=compact&theme=cobalt2&hide_border=true&size_weight=0.5&count_weight=0.5" alt="spunnanithi" /> -->
 </a>
