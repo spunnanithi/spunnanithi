@@ -47,7 +47,7 @@
 
 ---
 
-### :fire: My Stats:
+<!-- ### :fire: My Stats: -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <!-- Github Streak Stats -->
