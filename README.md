@@ -27,7 +27,9 @@
 
 - ⚡ Other things I enjoy: **Weightlifting/Powerlifting, Sports, and Delicious Food**
 
-- 👨‍💻 All of my projects are available at [https://punnanithi-portfolio.vercel.app/](https://punnanithi-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://punnanithi-portfolio.vercel.app/)
+  
+- 📚 My personal blog is available at [MyDevJourney](https://mydevjourney.vercel.app/)
 
 - 📫 How to reach me **spunnanithi@gmail.com** OR **LinkedIn messaging**
 
